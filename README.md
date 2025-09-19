@@ -129,5 +129,3 @@ lsvc = LinearSVC(max_iter=5000).fit(X_train, y_train)
 Developed as a practice project for **SVM-based classification and regression** with real-world sales data.
 
 ---
-
-Do you want me to also **merge both README files** into a single, unified format (since both projects are similar classification pipelines), or should I keep them separate?
